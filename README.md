@@ -1,2 +1,2 @@
-# ISU
+# ISU.github.io
 Website
