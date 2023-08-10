@@ -135,11 +135,32 @@
   padding: 6px 10px;
   vertical-align: middle;
 }
-
 .btn-dark {
   color: black;
   border: 2px solid gray;
 }
+.a {
+  margin-top: 55px;
+  padding: 8px 20px;
+  margin: 7px 3px;
+  border: 2px solid white;
+  border-radius: 8px;
+  background: none;
+  color: white;
+  cursor: pointer;
+  font-family: "Ubuntu", sans-serif;
+}
+/* .a-github {
+  padding: 8px 20px;
+  margin: 7px 3px;
+  border: 2px solid white;
+  border-radius: 8px;
+  background: none;
+  color: white;
+  cursor: pointer;
+  font-family: "Ubuntu", sans-serif;
+  margin-top: 250px;
+} */
 .Section-1 {
   height: 500px;
   display: flex;
@@ -222,7 +243,7 @@
 }
 
 .form {
-  max-width: 1212px;
+  max-width: 1200px;
   margin: 42px auto;
 }
 
